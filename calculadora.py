@@ -1,8 +1,7 @@
 # TO_DO: Implementar una función que reciba dos números
 # y devuelva su suma. Ejemplo a + b
 def suma(a, b):
-pass # el codigo va en esta linea
-
+  return a + b
 # TO_DO: Implementar una función que reciba dos números
 # y devolver su resta.
 def resta(a, b):
