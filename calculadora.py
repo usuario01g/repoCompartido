@@ -5,7 +5,7 @@ def suma(a, b):
 # TO_DO: Implementar una función que reciba dos números
 # y devolver su resta.
 def resta(a, b):
-pass # el codigo va en esta linea
+    return a -b
 
 # TO_DO: Implementar una función que reciba dos números
 # y devuelva su multiplicación.
